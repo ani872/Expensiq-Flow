@@ -144,7 +144,7 @@ These are loaded directly in `index.html`:
 
 ## 👨‍💻 Author
 
-**Anirban** — Frontend Developer & CSE Student
+**Anirban** 
 
 GitHub: [https://github.com/ani872](https://github.com/ani872)
 
