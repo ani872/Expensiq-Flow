@@ -1,0 +1,16 @@
+{
+  "name": "expensiqflow",
+  "version": "1.0.0",
+  "description": "Modern premium Expense Tracker Dashboard",
+  "main": "script.js",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./style.css -o ./output.css",
+    "watch:css": "npx tailwindcss -i ./style.css -o ./output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
